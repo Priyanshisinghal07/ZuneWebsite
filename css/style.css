@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.custom-navbar{
+    padding-left: 5rem;
+   
+}
+.custom-navbar .img{
+padding-right: 4rem;
+}
+.word span{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 35px;
+ 
+}
+.custom_container .row{
+  
+    margin-left: 500px;
+}
+.word1 span{
+    padding-top: 50px;
+    margin-top: 50px;
+    font-size: 35px;
+   
+}
+a.hover:hover{
+    text-decoration: underline;
+    
+    
+}
+.multicolortext {
+    background-image: linear-gradient(to left, violet, indigo, green, blue, yellow, orange, red);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+   
+ 
+   
+  }
+  .classtitle{
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size: 35px;
+  }
+  .blogbox{
+    margin-top: 50px;
+  }
+  .imagecardimg{
+    object-fit: cover;
+    max-width: 100%;
+    height: auto;
+   
+  }
+  .layout-card{
+    background-color: #ede7e3;
+    cursor: pointer;
+  }
+  .layout-card-title{
+    font-size: 30px;
+  }
+  .layout-card-text{
+    font-size: 20px;
+  }
+  .arrow-icon{
+    height: 17px;
+    width: 17px;
+    filter: invert();
+  }
+  .btn {
+    padding: 5px;
+    color: white;
+    text-decoration: none;
+    background-color: rgb(197, 27, 121);
+    border-radius: 2px;
+    text-align: center;
+    margin-top: lid black;
+  }
+
+  .footcont{
+   
+    width: 100%;
+    background-color:#ede7e3;
+    margin-top: 80px;
+}
+
+
+.footit{
+    padding-top: 25px;
+ 
+    padding-left: 4px;
+}
+.footcont h3{
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #636262;
+}
+.footcont a{
+    font-size: 0.7rem;
+  
+  color: #636262;
+  font-weight: 400;
+}
+.footcont a:hover{
+    text-decoration: underline;
+    color: rgb(32, 32, 32);
+
+}
+
+.footlist{
+  padding-top: 30px;
+  padding-bottom: 15px;
+}
+.h-line{
+  border-bottom:1px solid black;
+  width: 100%;
+  margin: auto;
+}
+.sphead{
+  margin-top: 100px;
+  margin-bottom: 10px;
+}
+.spline{
+  font-size: 3rem;
+}
+.head{
+  height: 88vh;
+}
+.home-container{
+  height: 64%;
+    width: 55%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 120px;
+}
+.sec_title{
+  display: flex;
+  flex-direction: column;
+}
+.sec_heading{
+  font-weight: 350;
+    font-size: 4.2rem;
+    line-height: 50px;
+    margin-bottom: 1.75rem;
+    text-transform: lowercase;
+    display: flex;
+    flex-direction: column;
+}
+.sec_description{
+  margin-bottom: 1.5rem;
+    font-size: .875rem;
+    line-height: 129%;
+    font-weight: 600;
+    width: 550px;
+    display: flex;
+    flex-direction: column;
+}
+.car-item{
+  right: 48%;
+   left: 8%;
+  padding-bottom: 0.25rem;
+   text-align: left;
+   bottom: 0.25rem;
+   display: flex;
+   flex-direction: column;
+   }
+   .top_Container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    z-index: 1;
+    animation: MainHero_fadeInAnimation__ChSXk 2s ease;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: MainHero_fadeInAnimation__ChSXk;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+
+
+   
